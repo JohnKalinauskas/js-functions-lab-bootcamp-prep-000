@@ -1,10 +1,10 @@
 // write your code below!
-function happyHolidays (){ 
+function happyHolidays () { 
   return "Happy holidays!"
 }
 
-function happyHolidayTo(name) {
-  console.log(`"Happy holidays, ", `${name}!`)
+function happyHolidaysTo(name) {
+  console.log("Happy Holdays, ", `${name}`)
 } 
 happyHolidays("John")  
  
