@@ -6,5 +6,5 @@ function happyHolidays (){
 function happyHolidays(name) {
   console.log(`${name}`)
   
-  happyHolidays("John")
+ 
   }
