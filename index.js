@@ -1,1 +1,12 @@
 // write your code below!
+function happyHolidays (){ 
+  return "Happy holidays!"
+}
+
+
+function happyHolidays(name) {
+  console.log(`${name}`)
+  
+  happyHolidays("John")
+  
+}
